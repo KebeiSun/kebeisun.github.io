@@ -1,6 +1,9 @@
 ---
-title: Hexo Template
+title: test
 ---
+
+
+这是一个测试文件
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
 
